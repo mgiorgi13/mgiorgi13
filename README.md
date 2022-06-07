@@ -5,7 +5,7 @@
 - 🌱 I’m currently studing Artificial Intelligence and Data Engineering at University of Pisa
 - ❤️ My passion is programming
 - 📫 How to reach me: 96mat96@libero.it
-- ⚡ Fun fact: I like multiplayer video games
+- 🤖 Fun fact: I like robots and automation
 
 <!-- 
 **mgiorgi13/mgiorgi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
