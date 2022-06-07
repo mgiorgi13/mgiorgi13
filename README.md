@@ -1,12 +1,12 @@
 ### Hi there 👋  
 ### I'm Matteo Giorgi
 
-🎓 I graduated in Computer Engineering in Pisa
-🔭 I’m currently working on a DataMining Project regarding Predictive Policing
-🌱 I’m currently studing Artificial Intelligence and Data Engineering at University of Pisa
-❤️ My passion is programming
-📫 How to reach me: 96mat96@libero.it
-⚡ Fun fact: I like multiplayer video games
+- 🎓 I graduated in Computer Engineering in Pisa
+- 🔭 I’m currently working on a DataMining Project regarding Predictive Policing
+- 🌱 I’m currently studing Artificial Intelligence and Data Engineering at University of Pisa
+- ❤️ My passion is programming
+- 📫 How to reach me: 96mat96@libero.it
+- ⚡ Fun fact: I like multiplayer video games
 
 
 <!-- 
