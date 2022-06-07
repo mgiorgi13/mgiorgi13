@@ -7,7 +7,6 @@
 - 📫 How to reach me: 96mat96@libero.it
 - ⚡ Fun fact: I like multiplayer video games
 
-
 <!-- 
 **mgiorgi13/mgiorgi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
