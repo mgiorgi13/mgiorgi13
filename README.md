@@ -4,14 +4,15 @@
 
 </p align="center">
 
-<p align="center">
+<div align="center">
  
- <img src="https://badges.pufler.dev/visits/mgiorgi13/mgiorgi13"/> 
- <img src="https://badges.pufler.dev/years/mgiorgi13"/>
- <img src="https://badges.pufler.dev/repos/mgiorgi13"/>
- <img src="https://badges.pufler.dev/commits/monthly/mgiorgi13" />
+ <!--img src="https://badges.pufler.dev/visits/mgiorgi13/mgiorgi13"/ --> 
+ <!--img src="https://badges.pufler.dev/years/mgiorgi13"/ -->
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mgiorgi13.visitor-badge)
+ <!--img src="https://badges.pufler.dev/repos/mgiorgi13"/ -->
+ <!--img src="https://badges.pufler.dev/commits/monthly/mgiorgi13" / -->
 
-</p>
+</div>
 
 <p align="center">
     <h2 align="center">About Me</h2>
