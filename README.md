@@ -52,9 +52,6 @@
 <a href="https://www.linkedin.com/in/matteo-giorgi-484a2b241/">
  <img src="https://img.shields.io/badge/-matteo_giorgi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteo-giorgi-484a2b241/"/>
 </a>
- <a href="https://www.instagram.com/giorgi_matteo">
- <img src="https://img.shields.io/badge/-giorgi_matteo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/giorgi_matteo"/>
-</a>
 </p>
 
 <h2 align="center">
