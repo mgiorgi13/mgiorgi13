@@ -17,12 +17,10 @@
 <p align="center">
     <h2 align="center">About Me</h2>
     <p align="center">🎓 I graduated in Computer Engineering in Pisa</p>
-    <p align="center">🔭 I’m currently working on a DataMining Project regarding Predictive Policing</p>
+    <p align="center">🔭 I’m currently working on an Information Retrival system</p>
     <p align="center">🌱 I’m currently studing Artificial Intelligence and Data Engineering at University of Pisa</p>
     <p align="center">❤️ I love programming</p>
     <p align="center">🤖 Fun fact: I like robots and automation</p>
-    <p align="center">📫 How to reach me:</p>
-    <p align="center"><img src="https://github.com/mgiorgi13/images/blob/main/mail.jpg"></>
 </p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
@@ -47,6 +45,8 @@
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<p align="center"><img src="https://github.com/mgiorgi13/images/blob/main/mail.jpg"></>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/matteo-giorgi-484a2b241/">
