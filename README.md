@@ -2,20 +2,10 @@
 
 <p align="center">
  <!-- img src="https://github.com/mgiorgi13/coding.gif/blob/main/mat_coding.gif"/ -->
- <img src="https://github.com/mgiorgi13/images/blob/main/coding.gif"/>
-</p align="center">
+ <img src="https://github.com/mgiorgi13/images/blob/main/coding.gif"/ width=360 width=360>
+</p>
 
-<div align="center">
- 
- <!--img src="https://badges.pufler.dev/visits/mgiorgi13/mgiorgi13"/ --> 
- <!--img src="https://badges.pufler.dev/years/mgiorgi13"/ -->
- ![profile view](https://komarev.com/ghpvc/?username=mgiorgi13&color=blue)
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mgiorgi13.visitor-badge)
- [![Github Follow](https://img.shields.io/github/followers/mgiorgi13?label=Follow%20Me&style=social)](https://github.com/mgiorgi13)
- <!--img src="https://badges.pufler.dev/repos/mgiorgi13"/ -->
- <!--img src="https://badges.pufler.dev/commits/monthly/mgiorgi13" / -->
-
-</div>
+<h1 align="center">Hi 👋, I'm Matteo Giorgi</h1>
 
 <p align="center">
     <h2 align="center">About Me</h2>
@@ -27,6 +17,10 @@
 </p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+
+<p align="center">
+    <img src="https://github.com/mgiorgi13/images/blob/main/undo.gif"/ width=360 width=360>
+</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -52,9 +46,14 @@
 
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/matteo-giorgi-484a2b241/">
  <img src="https://img.shields.io/badge/-matteo_giorgi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteo-giorgi-484a2b241/"/>
 </a>
+<a href="https://www.instagram.com/giorgi_matteo/">
+ <img src="https://img.shields.io/badge/-matteo_giorgi-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/giorgi_matteo/"/>
+</a>
+
 </p>
 
 <h2 align="center">
@@ -71,4 +70,17 @@
 </p> 
 
 <hr>
+
+<div align="center">
+ 
+ <!--img src="https://badges.pufler.dev/visits/mgiorgi13/mgiorgi13"/ --> 
+ <!--img src="https://badges.pufler.dev/years/mgiorgi13"/ -->
+ ![profile view](https://komarev.com/ghpvc/?username=mgiorgi13&color=blue)
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mgiorgi13.visitor-badge)
+ [![Github Follow](https://img.shields.io/github/followers/mgiorgi13?label=Follow%20Me&style=social)](https://github.com/mgiorgi13)
+ <!--img src="https://badges.pufler.dev/repos/mgiorgi13"/ -->
+ <!--img src="https://badges.pufler.dev/commits/monthly/mgiorgi13" / -->
+
+</div>
+
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
