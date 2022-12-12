@@ -1,10 +1,4 @@
 <!--  https://github.com/mgiorgi13/portfolio/  -->
-<style>
-.img {
-  max-width : 50%;
-  height: auto;
-}
-</style>
 
 <p align="center">
  <!-- img src="https://github.com/mgiorgi13/coding.gif/blob/main/mat_coding.gif"/ -->
