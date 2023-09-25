@@ -76,7 +76,7 @@
  <!--img src="https://badges.pufler.dev/visits/mgiorgi13/mgiorgi13"/ --> 
  <!--img src="https://badges.pufler.dev/years/mgiorgi13"/ -->
  ![profile view](https://komarev.com/ghpvc/?username=mgiorgi13&color=blue)
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mgiorgi13.visitor-badge)
+ <!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mgiorgi13.visitor-badge) -->
  [![Github Follow](https://img.shields.io/github/followers/mgiorgi13?label=Follow%20Me&style=social)](https://github.com/mgiorgi13)
  <!--img src="https://badges.pufler.dev/repos/mgiorgi13"/ -->
  <!--img src="https://badges.pufler.dev/commits/monthly/mgiorgi13" / -->
