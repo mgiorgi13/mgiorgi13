@@ -61,16 +61,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgiorgi13&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
-<h2 align="center">GitHub Trophies <img src="https://media.giphy.com/media/1AgViWXgqR7L6Xnu5T/giphy.gif" width="50"></h2>
+<h2 align="center">GitHub Trophies </h2>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mgiorgi13&theme=radical&no-frame=true&margin-w=15&column=7" />
-</p>
-
-<h2 align="center">GitHub Contributions <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"></h2>
-
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=mgiorgi13&bg_color=1A1B27&color=70A4FC&line=70A4FC&point=FFFFFF&area=true" />
 </p>
 
 <hr>
