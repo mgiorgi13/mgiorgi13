@@ -8,7 +8,7 @@
 <p align="center">
     <h2 align="center">About Me</h2>
     <p align="center">🎓 I graduated in Computer Engineering in Pisa</p>
-    <p align="center">🔭 I’m currently working on an Information Retrieval system</p>
+    <p align="center">🔭 I’m currently working on my Master thesis</p>
     <p align="center">🌱 I’m currently studying Artificial Intelligence and Data Engineering at the University of Pisa</p>
     <p align="center">❤️ I love programming</p>
     <p align="center">🤖 Fun fact: I like robots and automation</p>
