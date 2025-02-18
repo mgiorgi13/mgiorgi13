@@ -22,15 +22,11 @@
 <h2 align="center">📊 GitHub Stats & Analytics</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mgiorgi13&show_icons=true&theme=transparent&count_private=true&hide_border=true" width="50%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgiorgi13&theme=transparent&hide_border=true" width="50%"/>
-</p>
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgiorgi13&theme=github&hide_border=true"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mgiorgi13&theme=transparent"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mgiorgi13&theme=transparent&utcOffset=8"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgiorgi13&theme=github&hide_border=true"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgiorgi13&theme=github&hide_border=true"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mgiorgi13&theme=github&utcOffset=2&hide_border=true"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgiorgi13&theme=github&hide_border=true"/>
 </p>
 
 ---
