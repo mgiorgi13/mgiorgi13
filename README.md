@@ -14,7 +14,7 @@
 <h2 align="center">🚀 Technology Stack</h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,maven,python,js,html,css,php,matlab,latex,mysql,mongodb,docker,kubernetes,rabbitmq,grafana,bash,vim,vscode,linux,apple,git" width="900"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,maven,python,js,html,css,php,mysql,mongodb,docker,kubernetes,rabbitmq,grafana,matlab,latex,bash,vim,vscode,linux,apple,git" width="900"/>
 </p>
 
 ---
