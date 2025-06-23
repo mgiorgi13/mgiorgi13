@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matteo Giorgi</h1>
 
-<p align="center">
-    <h2 align="center">About Me</h2>
-    <p align="center">🎓 I graduated in Computer Engineering in Pisa</p>
-    <p align="center">🔭 I’m currently working on my Master thesis</p>
-    <p align="center">🌱 I’m currently studying Artificial Intelligence and Data Engineering at the University of Pisa</p>
-    <p align="center">❤️ I love programming</p>
-    <p align="center">🤖 Fun fact: I like robots and automation</p>
-</p>
+<h2 align="center">About Me</h2>
+
+<p align="center">🎓 I hold a degree in Computer Engineering, with a specialization in Artificial Intelligence and Data Engineering from the University of Pisa.</p>
+<p align="center">🔭 I am currently seeking opportunities to contribute to innovative projects and join a dynamic team in the field of AI.</p>
+<p align="center">🤖 I am passionate about programming and continuous learning, particularly in the domain of AI. I am especially intrigued by its potential applications in robotics, space exploration, and medicine.</p>
+
 
 ---
 
@@ -24,9 +22,9 @@
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mgiorgi13&theme=transparent"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mgiorgi13&theme=transparent&utcOffset=8"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgiorgi13&theme=github&hide_border=true"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgiorgi13&theme=github&hide_border=true"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgiorgi13&theme=github&hide_border=true"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgiorgi13&theme=transparent&hide_border=true"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgiorgi13&theme=transparent&hide_border=true"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgiorgi13&theme=transparent&hide_border=true"/>
 </p>
 
 ---
