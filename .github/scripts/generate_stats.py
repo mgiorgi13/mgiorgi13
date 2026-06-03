@@ -54,6 +54,20 @@ followers = data["followers"]["totalCount"]
 # Top languages by bytes
 EXCLUDED_LANGS = {"HTML", "CSS", "Makefile", "Markdown", "TeX"}
 
+# Map sub-languages to their parent (bytes are merged, parent color is used)
+LANGUAGE_GROUPS = {
+    "Jupyter Notebook": "Python",
+    "Shell":            "Bash",
+    "Batchfile":        "Bash",
+    "PowerShell":       "Bash",
+    "TypeScript":       "JavaScript",
+    "CoffeeScript":     "JavaScript",
+    "SCSS":             "CSS",
+    "Sass":             "CSS",
+    "Less":             "CSS",
+    "C++":              "C",
+}
+
 lang_sizes: dict[str, int] = {}
 lang_colors: dict[str, str] = {}
 for repo in repos:
@@ -61,9 +75,11 @@ for repo in repos:
         name = edge["node"]["name"]
         if name in EXCLUDED_LANGS:
             continue
+        name = LANGUAGE_GROUPS.get(name, name)
         color = edge["node"]["color"] or "#858585"
         lang_sizes[name] = lang_sizes.get(name, 0) + edge["size"]
-        lang_colors[name] = color
+        if name not in lang_colors:
+            lang_colors[name] = color
 
 top_langs = sorted(lang_sizes.items(), key=lambda x: x[1], reverse=True)[:6]
 total_bytes = sum(v for _, v in top_langs) or 1
