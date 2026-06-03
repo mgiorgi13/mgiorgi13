@@ -65,7 +65,7 @@ LANGUAGE_GROUPS = {
     "SCSS":             "CSS",
     "Sass":             "CSS",
     "Less":             "CSS",
-    "C++":              "C",
+    "GSC":              "C++",
 }
 
 lang_sizes: dict[str, int] = {}
