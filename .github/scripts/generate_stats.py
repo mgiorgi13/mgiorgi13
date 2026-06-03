@@ -52,11 +52,15 @@ issues = contribs["totalIssueContributions"]
 followers = data["followers"]["totalCount"]
 
 # Top languages by bytes
+EXCLUDED_LANGS = {"HTML", "CSS", "Makefile", "Markdown", "TeX"}
+
 lang_sizes: dict[str, int] = {}
 lang_colors: dict[str, str] = {}
 for repo in repos:
     for edge in repo["languages"]["edges"]:
         name = edge["node"]["name"]
+        if name in EXCLUDED_LANGS:
+            continue
         color = edge["node"]["color"] or "#858585"
         lang_sizes[name] = lang_sizes.get(name, 0) + edge["size"]
         lang_colors[name] = color
